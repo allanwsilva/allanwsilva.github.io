@@ -6,7 +6,7 @@
 name: Allan Wojcik da Silva
 
 # Short bio or description (displayed in the header)
-description: Senior Java Developer
+description: Senior Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/5676363?s=460&u=76fde7b78f37b3368975e7e3f504a056853e89a0&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: allanwsilva
   instagram:
-  linkedin: linkedin.com/in/allanwsilva
+  linkedin: allanwsilva
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: allanwsilva
@@ -84,3 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - A.png
